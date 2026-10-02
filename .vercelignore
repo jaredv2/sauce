@@ -1,0 +1,7 @@
+node_modules
+dist
+supabase/.temp
+tasks
+.impeccable
+*.log
+.env
